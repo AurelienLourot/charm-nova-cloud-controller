@@ -1,5 +1,7 @@
 # Overview
 
+> **WARNING: do not use in production. Temporary fork of [charm-nova-cloud-controller](https://github.com/openstack/charm-nova-cloud-controller) containing [this fix](https://review.opendev.org/c/openstack/charm-nova-cloud-controller/+/775900).
+
 Cloud controller node for OpenStack nova. Contains nova-schedule, nova-api,
 nova-network and nova-objectstore.
 
